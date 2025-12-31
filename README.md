@@ -36,6 +36,12 @@ Once you publish to npm, users can run:
 npx create-mcp-server-kit@latest my-mcp-server
 ```
 
+Or:
+
+```bash
+npm create mcp-server-kit@latest my-mcp-server
+```
+
 ## 10-second sanity check
 
 After scaffolding:
@@ -124,6 +130,4 @@ npm run create -- my-mcp-server
 ## 中文（繁體）
 
 這個專案是一個 MCP 伺服器腳手架：讓你用一行指令生成「可以直接跑」的 TypeScript + stdio MCP server（很適合 Claude Desktop 這類本機整合）。
-
-如果你願意，我也可以幫你把 README 做成「首屏 1 行指令 + GIF + FAQ + Roadmap + badges」的完整爆款格式。
 
