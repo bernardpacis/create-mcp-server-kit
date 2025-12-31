@@ -1,0 +1,40 @@
+{
+  "name": "create-mcp-server-kit",
+  "version": "0.1.0",
+  "description": "Scaffold a production-ready Model Context Protocol (MCP) server in seconds.",
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "main": "./index.cjs",
+  "bin": {
+    "create-mcp-server-kit": "./bin/create-mcp-server-kit.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "create": "node ./bin/create-mcp-server-kit.js",
+    "test": "node --test",
+    "check": "node ./scripts/check.js"
+  },
+  "keywords": [
+    "mcp",
+    "modelcontextprotocol",
+    "create",
+    "scaffold",
+    "cli",
+    "typescript",
+    "starter",
+    "template"
+  ],
+  "files": [
+    "bin/",
+    "templates/",
+    "scripts/",
+    "index.cjs",
+    "LICENSE",
+    "README.md"
+  ]
+}
+
+
