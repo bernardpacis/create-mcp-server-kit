@@ -1,5 +1,7 @@
 # create-mcp-server-kit
 
+![node >=18](https://img.shields.io/badge/node-%3E%3D18-brightgreen) ![license MIT](https://img.shields.io/badge/license-MIT-blue)
+
 Scaffold a **production-ready Model Context Protocol (MCP) server** in seconds.
 
 **Who is this for?** Anyone who wants to ship an MCP server fast — with a starter that actually runs, a clean structure, and CI-ready defaults.
