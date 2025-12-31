@@ -1,9 +1,9 @@
 # create-mcp-server-kit
 
-[![CI](https://github.com/ePI11202/create-mcp-server-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/ePI11202/create-mcp-server-kit/actions/workflows/ci.yml)
+[![CI](https://github.com/Epi-1120/create-mcp-server-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/Epi-1120/create-mcp-server-kit/actions/workflows/ci.yml)
 ![node >=18](https://img.shields.io/badge/node-%3E%3D18-brightgreen)
 [![license MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
-[![stars](https://img.shields.io/github/stars/ePI11202/create-mcp-server-kit?style=social)](https://github.com/ePI11202/create-mcp-server-kit)
+[![stars](https://img.shields.io/github/stars/Epi-1120/create-mcp-server-kit?style=social)](https://github.com/Epi-1120/create-mcp-server-kit)
 
 Scaffold a **production-ready Model Context Protocol (MCP) server** in seconds.
 
@@ -21,7 +21,7 @@ Scaffold a **production-ready Model Context Protocol (MCP) server** in seconds.
 ### Option A: From this repo (works now)
 
 ```bash
-git clone https://github.com/ePI11202/create-mcp-server-kit
+git clone https://github.com/Epi-1120/create-mcp-server-kit
 cd create-mcp-server-kit
 node ./bin/create-mcp-server-kit.js my-mcp-server
 cd my-mcp-server
