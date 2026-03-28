@@ -44,6 +44,31 @@ Common config locations:
 - **macOS**: `~/Library/Application Support/Claude/claude_desktop_config.json`
 - **Linux**: `~/.config/Claude/claude_desktop_config.json`
 
+## Optional: place the generated server behind a stdio firewall
+
+If you want a package-first transport control in front of the generated server, you can wrap it with [`mcp-transport-firewall`](https://www.npmjs.com/package/mcp-transport-firewall).
+
+Example client configuration:
+
+```json
+{
+  "mcpServers": {
+    "__PROJECT_NAME__": {
+      "command": "npx",
+      "args": ["-y", "mcp-transport-firewall"],
+      "env": {
+        "MCP_TARGET_COMMAND": "node",
+        "MCP_TARGET_ARGS_JSON": "[\"C:\\\\full\\\\path\\\\to\\\\__PROJECT_NAME__\\\\dist\\\\index.js\"]"
+      }
+    }
+  }
+}
+```
+
+This keeps the generated server as the downstream stdio target while the firewall handles request inspection and denial behavior.
+
+If your MCP client supports request metadata injection, you can also add `PROXY_AUTH_TOKEN` to enable the shared-secret auth gate.
+
 ## Tools
 
 - **hello**: input `{ "name": "Ada" }` → output `"Hello, Ada!"`
